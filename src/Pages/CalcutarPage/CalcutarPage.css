@@ -8,3 +8,9 @@ div.panel-calculator{
     width: 447px;
     height: 572px;
 }
+
+@media (min-width: 1000px) {
+    div.panel-calculator{
+        margin: 10% auto;
+    }
+}
